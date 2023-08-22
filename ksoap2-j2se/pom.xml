@@ -21,12 +21,12 @@
         <dependency>
             <groupId>com.google.code.ksoap2-android</groupId>
             <artifactId>ksoap2-base</artifactId>
-            <version>${project.version}</version>
+            <version>3.6.4</version>
         </dependency>
         <dependency>
             <groupId>com.google.code.ksoap2-android</groupId>
             <artifactId>ksoap2-base</artifactId>
-            <version>${project.version}</version>
+            <version>3.6.4</version>
             <type>test-jar</type>
             <scope>test</scope>
         </dependency>
